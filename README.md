@@ -46,3 +46,4 @@ Integração com delivery
 ## Responsividade
 
 Compatível com Desktop, Tablet e Smartphone.
+
