@@ -5,9 +5,9 @@ Sistema Web para gerenciamento de cafeteria online.
 
 ## Integrantes
 
-- Rúben dos Santos Melo
-- Bruna Almeida
-- João Pedro Carneiro 
+- Rúben dos Santos Melo responsável pelo PDF e README do projeto
+- Bruna Almeida responsável pelo protótipo no figma 
+- João Pedro Carneiro responsável pelo código de execução
 
 ## Tecnologias
 
