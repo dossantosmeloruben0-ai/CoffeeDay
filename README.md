@@ -82,6 +82,8 @@ Compatível com Desktop, Tablet e Smartphone.
 
 
 
-<img width="371" height="805" alt="1000190294" src="https://github.com/user-attachments/assets/b188a06f-ea46-429b-868c-05286a2fd97b" />
+
+<img width="360" height="768" alt="1000190353" src="https://github.com/user-attachments/assets/ebad2c60-b0f7-40e6-a9ca-461b1bbc0eac" />
+
 
 <img width="360" height="797" alt="1000190295" src="https://github.com/user-attachments/assets/7f28a328-5e52-42cd-8fba-1db36423be05" />
