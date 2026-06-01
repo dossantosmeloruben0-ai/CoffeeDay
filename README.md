@@ -74,4 +74,14 @@ Compatível com Desktop, Tablet e Smartphone.
 
 <img width="400" height="870" alt="1000189434" src="https://github.com/user-attachments/assets/bf349fd4-7de1-4ebc-bd61-b88e7a828e1d" />
 
+<img width="360" height="808" alt="1000190293" src="https://github.com/user-attachments/assets/7eb59dce-a5ea-4612-8684-79fa2c67e653" />
+
+
 <img width="362" height="782" alt="1000189425" src="https://github.com/user-attachments/assets/3a8ff41a-2eb5-4274-8045-6c6a288b8cc4" />
+
+
+
+
+<img width="371" height="805" alt="1000190294" src="https://github.com/user-attachments/assets/b188a06f-ea46-429b-868c-05286a2fd97b" />
+
+<img width="360" height="797" alt="1000190295" src="https://github.com/user-attachments/assets/7f28a328-5e52-42cd-8fba-1db36423be05" />
